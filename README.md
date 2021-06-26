@@ -114,3 +114,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Auto detect text files and perform LF normalization
+* text=auto
